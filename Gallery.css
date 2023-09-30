@@ -1,0 +1,16 @@
+nav{
+    background-color:rgb(67, 67, 67);
+    width: 100%;
+    padding: 2px;
+
+}a
+li{
+    display: inline-block;
+    padding:3px;
+    list-style-type: none;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+h2{margin-right: 10px;}

@@ -1,0 +1,39 @@
+nav{
+    background-color:rgb(67, 67, 67);
+    width: 100%;
+    padding: 2px;
+    
+}
+li{
+    display: inline-block;
+    padding:3px;
+    list-style-type: none;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+h2{margin-right: 10px;}
+body{
+    
+    background-image:url(Fortnite-Chapter-3-start-time-1600x900.webp);
+}
+
+.container{
+    width: 100%;
+    display: inline-block;
+
+}
+.box{
+    width: 32%;
+background-color: rgb(63, 63, 63) ;
+color: aliceblue;
+display: inline-block;
+padding: 4px;
+}
+#Trailer{
+color: rgb(0, 48, 91);
+}
+#abouth3{
+    opacity: 0.8;
+}
